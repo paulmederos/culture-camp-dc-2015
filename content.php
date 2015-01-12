@@ -6,7 +6,6 @@
 ?>
 
 
-
 <article id="post-<?php the_ID(); ?>" <?php post_class("home-news-item group"); ?>>
 	<a href="<?php the_permalink() ?>" class="home-news-link">
 		<div class="post-date"><?php the_date(); ?></div>

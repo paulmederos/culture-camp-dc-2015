@@ -141,16 +141,10 @@ require get_template_directory() . '/inc/jetpack.php';
 
 // First, create a function that includes the path to your favicon
 function add_favicon_to_admin() {
-  $favicon_url = 'http://americanparkour.s3.amazonaws.com/assets/community/favicon-admin.png';
+  $favicon_url = 'http://culturecamp2015.s3.amazonaws.com/assets/favicon-admin.png';
 	echo '<link rel="shortcut icon" href="' . $favicon_url . '" type="image/x-icon"/>';
-
-
-
-
-
 }
   
-
 
 // Now, just make sure that function runs when you're on the login page and admin pages  
 add_action('login_head', 'add_favicon_to_admin');

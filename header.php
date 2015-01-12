@@ -32,15 +32,9 @@
 <body <?php body_class(); ?>>
 	<?php do_action( 'before' ); ?>
 	<header class="site-header" role="banner">
-		<div class="wrap group">
-			<h1 class="site-title hide-text">
-				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home" class="logo"><?php bloginfo( 'name' ); ?></a>
-			</h1>
-
-			<nav id="site-navigation" class="main-navigation" role="navigation">
-				<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
-			</nav><!-- #site-navigation -->
-			<a class="icon icon-menu" href="#open-menu"></a>
-		</div><!-- /.wrap.group -->
+		<a href="/" class="logo"></a>
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
+		</nav><!-- #site-navigation -->
 	</header><!-- /.site-header -->
 
