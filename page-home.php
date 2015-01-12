@@ -73,13 +73,13 @@
 
 <section class="social-proof">
 	<div class="wrap mid-wrap">
-		<p class="centered">People had a great time with the last unconference:</p>
+		<p class="centered">People had a great time at the last unconference:</p>
 		<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 		<blockquote class="twitter-tweet" lang="en"><p>First unconference, was a like a breath of fresh air... cool people, new concepts <a href="https://twitter.com/hashtag/culturedc?src=hash">#culturedc</a> <a href="http://t.co/woQtmcuu">pic.twitter.com/woQtmcuu</a></p>&mdash; Omar (@cherubsta) <a href="https://twitter.com/cherubsta/status/252153616339718144">September 29, 2012</a></blockquote>
 		<blockquote class="twitter-tweet" lang="en"><p>Loved tour of <a href="https://twitter.com/themotleyfool">@themotleyfool</a> office space exploring its culture! Really cool company. Thanks <a href="https://twitter.com/Cicotello">@Cicotello</a> chief learning officer <a href="https://twitter.com/hashtag/culturedc?src=hash">#culturedc</a></p>&mdash; Andrea Chiou (@andreachiou) <a href="https://twitter.com/andreachiou/status/252146804290887680">September 29, 2012</a></blockquote>
 		<blockquote class="twitter-tweet" lang="en"><p>Really enjoyed my time today at Culture Camp DC and hanging out at the Mötley Fool HQ. <a href="https://twitter.com/hashtag/culturedc?src=hash">#culturedc</a></p>&mdash; Brittany Mederos (@brim) <a href="https://twitter.com/brim/status/252106389034508288">September 29, 2012</a></blockquote>
 		<blockquote class="twitter-tweet" lang="en"><p>Absolutely loved the <a href="https://twitter.com/hashtag/culturedc?src=hash">#culturedc</a> talk about Valve software and flat organizational structure.</p>&mdash; Jen Frazier (@jenfraiz) <a href="https://twitter.com/jenfraiz/status/252129828000641025">September 29, 2012</a></blockquote>
-		<p class="loved-it centered">People <b>loved</b> it just as much as we loved putting it on. This year will be just as great.</p>
+		<p class="loved-it centered">People <b>loved</b> it just as much as we loved putting it on. This year will be just as great!</p>
 	</div>
 </section>
 
