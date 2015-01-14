@@ -16,7 +16,7 @@
 
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
-	<link href="" rel="shortcut icon" type="image/x-icon">
+	<link href="http://paulmederos.s3.amazonaws.com/culturecamp2015/favicon.png" rel="shortcut icon">
 
 	<!-- TypeKit Fonts -->
   <script src="//use.typekit.net/sdi3elb.js"></script>
