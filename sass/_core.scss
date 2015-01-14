@@ -138,12 +138,12 @@ table {
 }
 
 a { 
-  color:$color_primary_link;
+  color:$color_primary_link; 
   outline: 0;
-  @include transition;
+  @include transition; 
 }
 
-a:visited { color: #6A4C96; }
+a:visited { color: white; }
 a:hover, a:focus { text-decoration: underline; @include transition; }
 p a, p a:visited { line-height: inherit; }
 
