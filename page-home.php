@@ -87,8 +87,11 @@
 	<div class="wrap mid-wrap centered">
 		<p>We’re still ironing out the marvelous details, but here’s what we can share so far:</p>
 		<div class="content-well">
-			<p><b>Date:</b><br>April / May 2015</p>
-			<p><b>Venue:</b><br>somewhere Metro accessible.</p>
+			<p><b>Date:</b><br>April 29, 2015</p>
+			<p><b>Venue:</b><br>OpenGov Hub
+			<br>1110 Vermont Avenue NW, Washington, DC
+			<br><a href="http://opengovhub.org/">see more</a>
+			</p>
 			<p>
 				<b>Schedule:</b><br>a full day, most likely 9am–5pm
 				<br><a href="http://www.culturecampdc.com/logistics/">see last year’s schedule</a>
@@ -100,28 +103,8 @@
 
 <section class="notify" name="notify" id="notify">
 	<div class="wrap mid-wrap centered">
-		<p>Registration won’t open for a bit, but pass along your email address 
-			and we’ll keep you in the loop:</p>
-
-		<!-- Begin MailChimp Signup Form -->
-		<div id="mc_embed_signup">
-			<form action="//culturecampdc.us4.list-manage.com/subscribe/post?u=601c78f046094efb83644a970&amp;id=37df20ff5f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-				<div id="mc_embed_signup_scroll">
-					<div class="mc-field-group">
-						<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Enter your email address">
-					</div>
-					<div id="mce-responses" class="clear">
-						<div class="response" id="mce-error-response" style="display:none"></div>
-						<div class="response" id="mce-success-response" style="display:none"></div>
-					</div> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-					<div style="position: absolute; left: -5000px;"><input type="text" name="b_601c78f046094efb83644a970_37df20ff5f" tabindex="-1" value=""></div>
-					<div class="clear">
-						<input type="submit" value="Notify Me" name="subscribe" id="mc-embedded-subscribe" class="button">
-					</div>
-				</div>
-			</form>
-		</div>
-		<!--End mc_embed_signup-->
+		<p>Registration is now open. Sign up before March 30th for early bird pricing. As Professor Oak would say, "The early bird gets the worm or, in this case, the Pokemon."</p>
+		<a href="https://www.eventbrite.com/e/culture-camp-2015-registration-15969868306" class="button" style="max-width:28rem;">Register now on Eventbrite</a>
 	</div>
 </section>
 

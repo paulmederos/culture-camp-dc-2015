@@ -235,7 +235,33 @@ ul li, ol li { margin-bottom: 1.5em; }
   left:0;
 }
 
-.site-header { position:absolute; top:0; left:0; }
+.site-header {
+  position:absolute;
+  top:4rem;
+  left:0;
+  width:100%;
+  z-index:6;
+}
+
+.main-navigation {
+  width:100%;
+  text-align: right;
+
+  ul.menu { margin: 0; padding:0 1em 0 0; }
+  li { display:inline; list-style:none; }
+  li a {
+    display: inline;
+    padding:.5em 1.5em;
+    font-weight:500;
+    text-decoration: none;
+
+    &:hover { text-decoration:underline; }
+    &:visited { color:white; }
+  }
+
+  li.current_page_item a { font-weight:700; }
+  li.current_page_item a:hover { text-decoration:none; }
+}
 
 /*  ==========================================
     2.0  Home styles
@@ -363,6 +389,9 @@ section .wrap {
     margin:1.8rem auto;
     padding:.75em 1.5em;
     cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,.15);
+
+    &:hover { box-shadow: 0 3px 5px rgba(0,0,0,.18); }
   }
 }
 
