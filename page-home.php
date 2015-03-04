@@ -13,7 +13,7 @@
 	<div class="wrap centered">
 		<h1>Culture Camp 2015</h1>
 		<p class="featured-subtitle">Great organizational culture doesn’t happen by accident.<br>It starts with <b>you</b>.</p>
-		<a href="#notify" class="button button-outline">I’m ready, count me in</a>
+		<a href="https://www.eventbrite.com/e/culture-camp-2015-registration-15969868306" target="_blank" class="button button-outline">I’m ready, count me in</a>
 	</div><!-- /.wrap -->
 	<div class="overlay"></div>
 </section>
