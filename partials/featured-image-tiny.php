@@ -24,4 +24,5 @@
 			<?php echo $page_image_credit; ?>
 		</aside>
 	<?php endif; ?>
+	<div class="overlay"></div>
 </div><!-- /.featured-image-tiny -->

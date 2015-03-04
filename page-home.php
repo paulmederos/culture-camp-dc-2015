@@ -94,7 +94,7 @@
 			</p>
 			<p>
 				<b>Schedule:</b><br>a full day, most likely 9am–5pm
-				<br><a href="http://www.culturecampdc.com/logistics/">see last year’s schedule</a>
+				<br><a href="http://2012.culturecampdc.com/logistics/">see last year’s schedule</a>
 			</p>
 		</div><!-- /.content-well -->
 	</div><!-- /.wrap -->
