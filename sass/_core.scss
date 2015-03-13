@@ -137,6 +137,19 @@ table {
   background-color: transparent;
 }
 
+tbody { text-align: left; }
+
+table .time {
+  text-align:right;
+  font-weight: 600;
+  min-width:15rem;
+  padding-right: 1em;
+  vertical-align: top;
+}
+
+tr { padding-bottom:.5em; margin-bottom:.5em; }
+
+
 a { 
   color:$color_primary_link; 
   outline: 0;

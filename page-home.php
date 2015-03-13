@@ -92,10 +92,54 @@
 			<br>1110 Vermont Avenue NW, Washington, DC
 			<br><a href="http://opengovhub.org/">see more</a>
 			</p>
-			<p>
-				<b>Schedule:</b><br>a full day, most likely 9am–5pm
-				<br><a href="http://2012.culturecampdc.com/logistics/">see last year’s schedule</a>
+			<a name="schedule" id="schedule"></a>
+			<p style="margin-top:3em;">
+				<b>Schedule:</b>
 			</p>
+			<table cellpadding="4">
+				<tbody style="text-align:left;">
+					<tr>
+						<td class="time">9:00am</td>
+						<td>Breakfast &amp; Casual Meet and Greet</td>
+					</tr>
+					<tr>
+						<td class="time">9:30am</td>
+						<td>Opening Remarks</td>
+					</tr>
+					<tr>
+						<td class="time">10&ndash;10:45am</td>
+						<td>Session #1</td>
+					</tr>
+					<tr>
+						<td class="time">11&ndash;11:45am</td>
+						<td>Session #2</td>
+					</tr>
+					<tr>
+						<td class="time">12&ndash;1:00pm</td>
+						<td>Lunch - Continue the great conversations as we set you free on DC for lunch. (Lunch not included but we have some great recommendations!)</td>
+					</tr>
+					<tr>
+						<td class="time">1:15&ndash;2:00pm</td>
+						<td>Session #3</td>
+					</tr>
+					<tr>
+						<td class="time">2:15&ndash;3:00pm</td>
+						<td>Session #4</td>
+					</tr>
+					<tr>
+						<td class="time">3:15&ndash;4:15pm</td>
+						<td>*Mega* Session #5</td>
+					</tr>
+					<tr>
+						<td class="time">4:30pm</td>
+						<td>Wrap-up</td>
+					</tr>
+					<tr>
+						<td class="time">5:00pm</td>
+						<td>Happy Hour begins</td>
+					</tr>
+				</tbody>
+			</table>
 		</div><!-- /.content-well -->
 	</div><!-- /.wrap -->
 	<div class="overlay"></div>
